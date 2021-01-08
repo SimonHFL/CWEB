@@ -1,8 +1,12 @@
 # CWEB (Corrected Websites) corpus
 
 Description of this corpus can be found in the paper:
-[Grammatical Error Correction in Low Error Density Domains: A New Benchmark and Analyses](https://arxiv.org/pdf/2010.07574.pdf)  
-To appear in the proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.
+
+[Grammatical Error Correction in Low Error Density Domains: A New Benchmark and Analyses](https://www.aclweb.org/anthology/2020.emnlp-main.680.pdf)  
+Simon Flachs, Ophélie Lacroix, Helen Yannakoudakis, Marek Rei and Anders Søgaard
+In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)
+
+Please cite the paper when using the dataset.
 
 # Data
 * `data/raw` contains the untokenized parallel data
