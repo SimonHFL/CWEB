@@ -6,7 +6,7 @@ Description of this corpus can be found in the paper:
 Simon Flachs, Ophélie Lacroix, Helen Yannakoudakis, Marek Rei and Anders Søgaard
 In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)
 
-Please cite the paper when using the dataset.
+Please cite this paper when using the dataset.
 
 # Data
 * `data/raw` contains the untokenized parallel data
